@@ -1,0 +1,9 @@
+/.vscode
+/bootstrap
+/images
+/node_modules
+eslint.config.mjs
+manifest.json
+package.json
+package-lock.json
+yarn.lock
