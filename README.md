@@ -2,7 +2,8 @@
 ![](https://github.com/user-attachments/assets/7a821ed8-6f12-45b8-8bfe-46bffa42567f)
 <p align='center'>Let's start taking some notes</>
 
-
+## notice
+本浏览器扩展已迁移至篡改猴脚本 => [仓库链接](https://github.com/yxz2333/AT-CF-problems-note)
 
 ## what
 这是一个浏览器扩展，可以在 kenkoooo.com 和 cf.kira924age.com 网站上，更加方便地查询和记录你的题目笔记。
